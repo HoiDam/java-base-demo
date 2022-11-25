@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.base.BaseDemoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-25T05:46:57" hostname="LEUNGAL4-W11" time="0.011">
+  <properties/>
+  <testcase name="four_plus_four_is_eight()" classname="demo.base.BaseDemoTest" time="0.008"/>
+  <testcase name="three_plus_one_is_four()" classname="demo.base.BaseDemoTest" time="0.0"/>
+  <testcase name="should_return_hello_world()" classname="demo.base.BaseDemoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
